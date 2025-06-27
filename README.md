@@ -62,5 +62,5 @@ This Power BI dashboard was built for an e-commerce business owner who wanted a 
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](path-to-image.png) <!-- Replace with actual image path -->
+![Dashboard Preview](Dashboard.png) <!-- Replace with actual image path -->
 
